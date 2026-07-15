@@ -14,46 +14,46 @@ redirect_from:
 
 <h3 style="margin-top: 30px; margin-bottom: 10px; color: #006633;">Education</h3>
 <hr style="margin-top: 0; margin-bottom: 15px;" />
-<ul style="line-height: 1.8;">
-  <li>
-    <b>M.Phil. and Ph.D. in Economics</b>, The Hong Kong University of Science and Technology 
-    <span style="float: right; color: #555;">2021 &ndash; Present</span>
+<ul style="line-height: 1.8; list-style-type: disc; padding-left: 20px;">
+  <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+    <div><b>M.Phil. and Ph.D. in Economics</b>, The Hong Kong University of Science and Technology</div>
+    <div style="color: #555; white-space: nowrap; margin-left: 15px;">2021 &ndash; Present</div>
   </li>
-  <li>
-    <b>Visiting Scholar</b>, Purdue University 
-    <span style="float: right; color: #555;">Jan &ndash; Jun 2026</span>
+  <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+    <div><b>Visiting Scholar</b>, Purdue University</div>
+    <div style="color: #555; white-space: nowrap; margin-left: 15px;">Jan &ndash; Jun 2026</div>
   </li>
-  <li>
-    <b>Visiting Scholar</b>, California Institute of Technology 
-    <span style="float: right; color: #555;">Feb &ndash; Mar 2026</span>
+  <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+    <div><b>Visiting Scholar</b>, California Institute of Technology</div>
+    <div style="color: #555; white-space: nowrap; margin-left: 15px;">Feb &ndash; Mar 2026</div>
   </li>
-  <li>
-    <b>M.Sc. in Economics</b>, The Chinese University of Hong Kong (Shenzhen) 
-    <span style="float: right; color: #555;">2019 &ndash; 2021</span>
+  <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+    <div><b>M.Sc. in Economics</b>, The Chinese University of Hong Kong (Shenzhen)</div>
+    <div style="color: #555; white-space: nowrap; margin-left: 15px;">2019 &ndash; 2021</div>
   </li>
-  <li>
-    <b>B.A. in Economics</b>, Renmin University of China 
-    <span style="float: right; color: #555;">2015 &ndash; 2019</span>
+  <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+    <div><b>B.A. in Economics</b>, Renmin University of China</div>
+    <div style="color: #555; white-space: nowrap; margin-left: 15px;">2015 &ndash; 2019</div>
   </li>
 </ul>
 
 <h3 style="margin-top: 40px; margin-bottom: 10px; color: #006633;">Selected Honors and Awards</h3>
 <hr style="margin-top: 0; margin-bottom: 15px;" />
-<ul style="line-height: 1.8;">
-  <li>
-    <b>RedBird Academic Excellence Award</b>, HKUST
-    <span style="float: right; color: #555;">2026</span>
+<ul style="line-height: 1.8; list-style-type: disc; padding-left: 20px;">
+  <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+    <div><b>RedBird Academic Excellence Award</b>, HKUST</div>
+    <div style="color: #555; white-space: nowrap; margin-left: 15px;">2026</div>
   </li>
-  <li>
-    <b>University Global Research Award</b>, HKUST
-    <span style="float: right; color: #555;">2025</span>
+  <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+    <div><b>University Global Research Award</b>, HKUST</div>
+    <div style="color: #555; white-space: nowrap; margin-left: 15px;">2025</div>
   </li>
-  <li>
-    <b>Presidential Award of Outstanding Graduate Student</b>, CUHK (SZ)
-    <span style="float: right; color: #555;">2021</span>
+  <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+    <div><b>Presidential Award of Outstanding Graduate Student</b>, CUHK (SZ)</div>
+    <div style="color: #555; white-space: nowrap; margin-left: 15px;">2021</div>
   </li>
-  <li>
-    <b>Outstanding Graduate Student (SoE)</b>, Renmin University of China
-    <span style="float: right; color: #555;">2019</span>
+  <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+    <div><b>Outstanding Graduate Student (SoE)</b>, Renmin University of China</div>
+    <div style="color: #555; white-space: nowrap; margin-left: 15px;">2019</div>
   </li>
 </ul>
