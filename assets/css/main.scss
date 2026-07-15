@@ -37,36 +37,3 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-
-/* --- 修复 Footer 遮挡正文的问题 --- */
-
-/* 1. 强制 footer 使用普通文档流，不再脱离/固定 */
-.page__footer {
-  position: static !important;   /* 关键：取消 fixed / sticky */
-  bottom: auto !important;
-  clear: both;
-  float: none !important;
-  width: 100%;
-  margin-top: 2rem;
-}
-
-/* 2. 让整个页面用 flex 布局，把 footer 自然顶到底部
-      （当内容较少时也不会飘到中间） */
-html, body {
-  height: auto;
-  min-height: 100%;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-.initial-content {
-  flex: 1 0 auto;   /* 撑开中间区域 */
-}
-
-.page__footer {
-  flex-shrink: 0;   /* footer 不被压缩 */
-}
