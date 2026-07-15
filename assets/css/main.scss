@@ -37,32 +37,3 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-
-/* ===== Sticky Footer 布局 ===== */
-html, body {
-  height: auto;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-/* 让顶栏和内容区不被压缩 */
-.masthead {
-  flex-shrink: 0;
-}
-
-/* 关键：内容区占据所有剩余空间，同时用 overflow 包住内部浮动 */
-.initial-content {
-  flex: 1 0 auto;
-  overflow: hidden;   /* 这一行是之前 flexbox 方案失败的原因，加上它就好了 */
-}
-
-/* 页脚不被压缩，永远在最底部 */
-.page__footer {
-  flex-shrink: 0;
-  clear: both;
-  margin-top: 2rem;
-}
