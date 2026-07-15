@@ -38,25 +38,31 @@
     "layout/json_cv"
 ;
 
-/* ===== 修复页脚遮挡内容问题 ===== */
-
-/* 1. 给主内容容器加清除浮动（clearfix） */
-.initial-content::after,
-#main::after {
-  content: "";
-  display: table;
-  clear: both;
+/* ===== Sticky Footer 布局 ===== */
+html, body {
+  height: auto;
 }
 
-/* 2. 让 initial-content 形成 BFC，包含浮动子元素 */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* 让顶栏和内容区不被压缩 */
+.masthead {
+  flex-shrink: 0;
+}
+
+/* 关键：内容区占据所有剩余空间，同时用 overflow 包住内部浮动 */
 .initial-content {
-  overflow: hidden; /* 或 overflow: auto */
+  flex: 1 0 auto;
+  overflow: hidden;   /* 这一行是之前 flexbox 方案失败的原因，加上它就好了 */
 }
 
-/* 3. 页脚强制清除浮动 + 常规文档流定位 */
+/* 页脚不被压缩，永远在最底部 */
 .page__footer {
+  flex-shrink: 0;
   clear: both;
-  position: relative;
-  width: 100%;
   margin-top: 2rem;
 }
