@@ -37,3 +37,19 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* 修复短页面中 Footer 向上重叠遮挡内容的问题 */
+#main {
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+.page__footer {
+  clear: both;
+  position: relative;
+  z-index: 10;
+  margin-top: 3em; 
+}
