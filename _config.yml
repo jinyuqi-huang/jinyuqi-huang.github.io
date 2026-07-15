@@ -354,7 +354,7 @@ tag_archive:
 
 
 # 暂时注释掉以排查问题
- compress_html:
-    clippings: all
-    ignore:
-    envs: development
+# compress_html:
+#    clippings: all
+#    ignore:
+#    envs: development
