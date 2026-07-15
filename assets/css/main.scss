@@ -37,3 +37,26 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ===== 修复页脚遮挡内容问题 ===== */
+
+/* 1. 给主内容容器加清除浮动（clearfix） */
+.initial-content::after,
+#main::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* 2. 让 initial-content 形成 BFC，包含浮动子元素 */
+.initial-content {
+  overflow: hidden; /* 或 overflow: auto */
+}
+
+/* 3. 页脚强制清除浮动 + 常规文档流定位 */
+.page__footer {
+  clear: both;
+  position: relative;
+  width: 100%;
+  margin-top: 2rem;
+}
