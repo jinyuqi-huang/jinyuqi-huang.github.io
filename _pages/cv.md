@@ -57,9 +57,3 @@ redirect_from:
     <span style="float: right; color: #555;">2019</span>
   </li>
 </ul>
-
-<div style="margin-top: 40px; padding: 15px; background-color: #f9f9f9; border-left: 4px solid #006633; border-radius: 4px;">
-  <p style="margin: 0; font-size: 0.95em; color: #555;">
-    <i>For a complete list of my research experience, teaching experience, and full awards, please refer to my <a href="{{ base_path }}/files/CV.pdf" target="_blank">PDF CV</a>.</i>
-  </p>
-</div>
