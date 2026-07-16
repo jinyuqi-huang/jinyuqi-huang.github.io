@@ -22,9 +22,10 @@ repository               : "jinyuqi-huang/jinyuqi-huang.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
+  author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jinyuqi Huang 黄金雨琪"
+  name             : "Jinyuqi Huang <br> 黄金雨琪"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
   location         : "Hong Kong SAR, China"
