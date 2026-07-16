@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinyuqi Huang 黄金雨琪"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
