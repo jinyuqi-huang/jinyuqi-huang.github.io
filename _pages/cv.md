@@ -12,7 +12,7 @@ redirect_from:
 
 [**Please click here to view / download my CV (PDF)**]({{ base_path }}/files/CV.pdf)
 
-<h2 style="margin-top: 30px; margin-bottom: 10px; color: #1B813A;">Education</h2>
+<h2 style="margin-top: 30px; margin-bottom: 10px; color: #21883D;">Education</h2>
 
 <ul style="line-height: 1.8; list-style-type: disc; padding-left: 20px;">
   <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
@@ -37,7 +37,7 @@ redirect_from:
   </li>
 </ul>
 
-<h2 style="margin-top: 40px; margin-bottom: 10px; color: #1B813A;">Selected Honors and Awards</h2>
+<h2 style="margin-top: 40px; margin-bottom: 10px; color: #21883D;">Selected Honors and Awards</h2>
 
 <ul style="line-height: 1.8; list-style-type: disc; padding-left: 20px;">
   <li style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
