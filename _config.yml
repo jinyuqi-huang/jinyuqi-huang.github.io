@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jinyuqi Huang (黄金雨琪)"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jinyuqi Huang"
 description              : &description "Jinyuqi's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "jinyuqi-huang/jinyuqi-huang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jinyuqi Huang"
+  name             : "Jinyuqi Huang 黄金雨琪"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
   location         : "Hong Kong SAR, China"
