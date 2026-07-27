@@ -20,7 +20,7 @@ My research lies in **Experimental Economics, Behavioral Economics, and Game The
 
 I am fortunate to be advised by my thesis committee: Prof. [Wooyoung Lim], Prof. [Yeon-Koo Che], Prof. [Rui Tang], and Prof. [Songfa Zhong].
 
-I received my M.Phil. from HKUST (2023), M.Sc. from The Chinese University of Hong Kong, Shenzhen (2021), and B.A. from Renmin University of China (2019). I have also been a visiting scholar at Purdue University (host: [Timothy Cason] and [Matthew Kovach]) and the California Institute of Technology (host: [Marina Agranov]).
+I received my M.Phil. in Economics from HKUST (2023), M.Sc. in Economics from The Chinese University of Hong Kong, Shenzhen (2021), and B.A. in Economics from Renmin University of China (2019). I have been a visiting scholar at Purdue University (host: [Timothy Cason] and [Matthew Kovach]) and the California Institute of Technology (host: [Marina Agranov]).
 
 [The Hong Kong University of Science and Technology (HKUST)]: https://hkust.edu.hk/
 [Wooyoung Lim]: https://wooyoung78lim.wixsite.com/wooyounglim
