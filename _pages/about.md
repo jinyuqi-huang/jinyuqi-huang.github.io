@@ -22,7 +22,7 @@ I am fortunate to be advised by my thesis committee: Prof. [Wooyoung Lim], Prof.
 
 I received my M.Phil. in Economics from HKUST (2023), M.Sc. in Economics from The Chinese University of Hong Kong, Shenzhen (2021), and B.A. in Economics from Renmin University of China (2019). I have been a visiting scholar at Purdue University (host: [Timothy Cason] and [Matthew Kovach]) and the California Institute of Technology (host: [Marina Agranov]).
 
-[The Hong Kong University of Science and Technology (HKUST)]: https://hkust.edu.hk/
+[The Hong Kong University of Science and Technology (HKUST)]: https://econ.hkust.edu.hk/
 [Wooyoung Lim]: https://wooyoung78lim.wixsite.com/wooyounglim
 [Yeon-Koo Che]: https://www.yeonkooche.com/
 [Rui Tang]: https://ruitangeconomics.weebly.com/
