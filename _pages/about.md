@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome!"  # 保持不变，这样你的主页正文依然显示 Welcome!
+seo_title: "Jinyuqi Huang | Ph.D. Candidate in Economics" # <--- 新增这行，专门给 Google 看
 author_profile: true
 redirect_from: 
   - /about/
