@@ -24,7 +24,7 @@ I am a Ph.D. candidate in Economics at [The Hong Kong University of Science and 
 
 My research lies in **Experimental Economics, Behavioral Economics, and Game Theory**, combining theoretical models with laboratory experiments to study decision-making and strategic interactions.
 
-I am fortunate to be advised by my thesis committee: Prof. [Wooyoung Lim], Prof. [Yeon-Koo Che], Prof. [Rui Tang], and Prof. [Songfa Zhong].
+I am fortunate to be advised by my thesis committee: Prof. [Wooyoung Lim], [Yeon-Koo Che], [Rui Tang], and [Songfa Zhong].
 
 I received my M.Phil. in Economics from HKUST (2023), M.Sc. in Economics from The Chinese University of Hong Kong, Shenzhen (2021), and B.A. in Economics from Renmin University of China (2019). I have been a visiting scholar at Purdue University (host: [Timothy Cason] and [Matthew Kovach]) and the California Institute of Technology (host: [Marina Agranov]).
 
