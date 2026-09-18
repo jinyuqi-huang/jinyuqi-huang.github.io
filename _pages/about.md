@@ -11,7 +11,7 @@ redirect_from:
 I am a Ph.D. candidate in Economics at [The Hong Kong University of Science and Technology (HKUST)].
 
 <p style="margin: 1.8em 0; line-height: 1.6;">
-  <strong style="font-size: 1.1em; color: #21883D;">I am on the 2026–2027 job market.</strong><br>
+  <strong style="font-size: 1.1em; color: #21883D;">I am on the 2026–2027 job market.</strong>
   
   <a href="/files/CV.pdf" style="margin-left: 5px;">[CV]</a>
   
