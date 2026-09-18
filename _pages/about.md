@@ -12,7 +12,14 @@ I am a Ph.D. candidate in Economics at [The Hong Kong University of Science and 
 
 <p style="margin: 1.8em 0; line-height: 1.6;">
   <strong style="font-size: 1.1em; color: #21883D;">I am on the 2026–2027 job market.</strong><br>
-  <span style="font-size: 0.95em">You can find my <a href="{{ base_path }}/files/CV.pdf" target="_blank">CV</a> here. Please feel free to contact me at <a href="mailto:jhuangde@connect.ust.hk">jhuangde@connect.ust.hk</a>.</span>
+  
+  <a href="/files/CV.pdf" style="margin-left: 5px;">[CV]</a>
+  
+  <a href="/files/Research_statement.pdf" style="margin-left: 5px;">[Research Statement]</a>
+  
+  <a href="/files/Teaching_statement.pdf" style="margin-left: 5px;">[Teaching Statement]</a>
+  
+  Please feel free to contact me at <a href="mailto:jhuangde@connect.ust.hk">jhuangde@connect.ust.hk</a>.</span>
 </p>
 
 My research lies in **Experimental Economics, Behavioral Economics, and Game Theory**, combining theoretical models with laboratory experiments to study decision-making and strategic interactions.
