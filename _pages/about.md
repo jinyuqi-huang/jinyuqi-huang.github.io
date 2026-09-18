@@ -19,7 +19,7 @@ I am a Ph.D. candidate in Economics at [The Hong Kong University of Science and 
   
   <a href="/files/Teaching_statement.pdf" style="margin-left: 5px;">[Teaching Statement]</a><br>
   
-  Please feel free to contact me at <a href="mailto:jhuangde@connect.ust.hk">jhuangde@connect.ust.hk</a>.</span>
+  Please feel free to contact me at <a href="mailto:jhuangde@connect.ust.hk">jhuangde@connect.ust.hk</a>.
 </p>
 
 My research lies in **Experimental Economics, Behavioral Economics, and Game Theory**, combining theoretical models with laboratory experiments to study decision-making and strategic interactions.
