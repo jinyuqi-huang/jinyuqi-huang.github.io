@@ -22,7 +22,7 @@ I am a Ph.D. candidate in Economics at [The Hong Kong University of Science and 
   Please feel free to contact me at <a href="mailto:jhuangde@connect.ust.hk">jhuangde@connect.ust.hk</a>.
 </p>
 
-My research lies in **Experimental Economics, Behavioral Economics, and Game Theory**, combining theoretical models with laboratory experiments to study decision-making and strategic interactions.
+My research lies in **Experimental Economics, Behavioral Economics, and Game Theory**, combining theoretical models with laboratory experiments to study decision-making and strategic interactions, with a focus on communication and coordination under incomplete information.
 
 I am fortunate to be advised by my thesis committee: Prof. [Wooyoung Lim], [Yeon-Koo Che], [Rui Tang], and [Songfa Zhong].
 
