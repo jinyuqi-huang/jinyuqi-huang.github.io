@@ -17,7 +17,7 @@ I am a Ph.D. candidate in Economics at [The Hong Kong University of Science and 
   
   <a href="/files/Research_statement.pdf" style="margin-left: 5px;">[Research Statement]</a>
   
-  <a href="/files/Teaching_statement.pdf" style="margin-left: 5px;">[Teaching Statement]</a>
+  <a href="/files/Teaching_statement.pdf" style="margin-left: 5px;">[Teaching Statement]</a><br>
   
   Please feel free to contact me at <a href="mailto:jhuangde@connect.ust.hk">jhuangde@connect.ust.hk</a>.</span>
 </p>
