@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[**Please click here to view / download my CV (PDF)**]({{ base_path }}/files/CV.pdf)
+**Downloadable CV (PDF):** [[English Version]({{ base_path }}/files/CV.pdf)] &nbsp;|&nbsp; [[中文版本]({{ base_path }}/files/CV_CN.pdf)]
 
 <h2 style="margin-top: 30px; margin-bottom: 10px; color: #21883D;">Education</h2>
 
